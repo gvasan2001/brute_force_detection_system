@@ -1,0 +1,17 @@
+Mar 25 10:15:01 kali sshd[1024]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Mar 25 10:15:05 kali sshd[1025]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Mar 25 10:15:07 kali sshd[1026]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Mar 25 10:15:10 kali sshd[1027]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Mar 25 10:15:12 kali sshd[1028]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Mar 25 10:15:15 kali sshd[1029]: Failed password for invalid user root from 192.168.1.10 port 22 ssh2
+Mar 25 10:15:18 kali sshd[1030]: Failed password for invalid user root from 192.168.1.10 port 22 ssh2
+Mar 25 10:15:20 kali sshd[1031]: Failed password for invalid user test from 192.168.1.10 port 22 ssh2
+Mar 25 10:16:01 kali sshd[1032]: Failed password for invalid user guest from 10.0.0.5 port 22 ssh2
+Mar 25 10:16:03 kali sshd[1033]: Failed password for invalid user guest from 10.0.0.5 port 22 ssh2
+Mar 25 10:16:05 kali sshd[1034]: Failed password for invalid user guest from 10.0.0.5 port 22 ssh2
+Mar 25 10:16:07 kali sshd[1035]: Failed password for invalid user guest from 10.0.0.5 port 22 ssh2
+Mar 25 10:16:10 kali sshd[1036]: Accepted password for user1 from 10.0.0.8 port 22 ssh2
+Mar 25 10:16:15 kali sshd[1037]: Failed password for invalid user admin from 172.16.0.3 port 22 ssh2
+Mar 25 10:16:18 kali sshd[1038]: Failed password for invalid user admin from 172.16.0.3 port 22 ssh2
+Mar 25 10:16:20 kali sshd[1039]: Failed password for invalid user admin from 172.16.0.3 port 22 ssh2
+Mar 25 10:16:25 kali sshd[1040]: Failed password for invalid user admin from 172.16.0.3 port 22 ssh2
